@@ -1,0 +1,12 @@
+
+.places__paragraphs {
+  padding: 0;
+  margin: 0;
+}
+@media screen and (max-width: 660px) {
+  .places__paragraphs {
+    width: 90%;
+    margin: 0 auto;
+  }
+}
+  

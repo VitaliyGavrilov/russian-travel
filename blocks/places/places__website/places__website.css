@@ -1,0 +1,15 @@
+
+.places__website {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  
+  padding: 0;
+  margin: 0;
+}
+@media screen and (max-width: 660px) {
+  .places__website {
+    width: 90%;
+    margin: 0 auto;
+  }
+}

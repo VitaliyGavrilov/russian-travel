@@ -1,0 +1,20 @@
+.cover__title {
+  font-weight: 900;
+  font-size: 4.5rem;
+  line-height: 4.75rem;
+  
+  max-width: 560px;
+  
+  padding: 0;
+  margin: 0 0 2rem 0;
+  
+  text-align: center;
+}
+@media screen and (max-width: 560px){
+  .cover__title{
+    font-size: 2rem;
+    line-height: 2.1875rem;
+
+    margin-bottom: 1rem;
+  }
+}

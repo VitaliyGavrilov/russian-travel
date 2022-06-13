@@ -1,0 +1,26 @@
+
+.page {
+  
+  background: #2A2C2F;
+  color: white;
+  border: 0;
+
+  min-width: 320px;
+
+  font-family: 'Inter', 'arial', sans-serif;
+
+  text-rendering: optimizeLegibility;
+
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+}
+
+/* почему то нормалайз не обнуляет оступы, если не прописать отступы для боди появляються белые рамки  */
+body {
+  margin: 0;
+  padding: 0;
+}

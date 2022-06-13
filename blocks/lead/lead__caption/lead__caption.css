@@ -1,0 +1,12 @@
+
+.lead__caption {
+  align-self: start;
+  
+  font-size: 0.625rem;
+  line-height: 0.875rem;
+  font-weight: 400;
+  letter-spacing: 1.5px;
+  
+  margin: 0.5rem 0 0 0;
+  padding: 0;
+}
