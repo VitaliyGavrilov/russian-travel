@@ -10,13 +10,13 @@
   margin: auto;
 
   max-width: 560px;
-  max-height: 250px;
+  min-height: 250px;
 
   color: white;
 }
 @media screen and (max-width: 560px){
   .cover__titles {
     max-width: 288px;
-    max-height: 134px;
+    min-height: 134px;
   }
 }
