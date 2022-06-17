@@ -7,8 +7,10 @@
   
   padding: 0;
   margin: 0 0 2rem 0;
-  
+
   text-align: center;
+
+  align-self: center;
 }
 @media screen and (max-width: 560px){
   .cover__title{
@@ -18,3 +20,4 @@
     margin-bottom: 1rem;
   }
 }
+

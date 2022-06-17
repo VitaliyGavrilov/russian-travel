@@ -1,22 +1,16 @@
 
 .cover__titles {
-  position: absolute;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  right: 0;
+  grid-column: 1;
+  grid-row: 1;
+
+  z-index: 3;
+
+  align-self: center;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 
   padding: 0;
-  margin: auto;
-
-  max-width: 560px;
-  min-height: 250px;
-
-  color: white;
-}
-@media screen and (max-width: 560px){
-  .cover__titles {
-    max-width: 288px;
-    min-height: 134px;
-  }
+  margin: 0;
 }

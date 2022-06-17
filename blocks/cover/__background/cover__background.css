@@ -1,9 +1,17 @@
 
 .cover__background {
   width: 100%;
-  opacity: 70%;
-  transition: opacity 0.5s linear 1s;
-}
-.cover__background:hover {
-  opacity: 20%;
+  height: 100%;
+
+  background-image: url("/sprint-3-images/cover-trains.jpg");
+  background-size: cover;
+  background-position: center;
+
+  padding: 0;
+  margin: 0;
+
+  grid-column: 1;
+  grid-row: 1/3;
+
+  position: relative;
 }
