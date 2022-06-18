@@ -10,9 +10,10 @@
 * Grid Layout
 * FlexBox
 * Работа с макетом в Figma
+* GitHub Pages
 
 **Figma**
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)
 
 ## Ссылка на готовый сайт
-https://github.com/VitaliyGavrilov/russian-travel.git
+https://vitaliygavrilov.github.io/russian-travel/
