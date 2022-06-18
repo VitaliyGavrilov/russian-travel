@@ -11,7 +11,7 @@
 }
 @media  screen and (max-width: 425px) {
   .header__lang-link {
-  margin-left: 1rem;
+  margin-left: 1.125rem;
 
   font-size: 1.125rem;
   list-style: 1.0625rem;
